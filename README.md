@@ -1,4 +1,4 @@
-![MasterHead]('https://www.bing.com/images/search?view=detailV2&ccid=hQQ57jU8&id=5755CFBA270709E66BF9477421B9791C5F36B598&thid=OIP.hQQ57jU8OePr7ekrpLJwowHaD7&mediaurl=https%3a%2f%2fventurebeat.com%2fwp-content%2fuploads%2f2018%2f03%2ffigure-1-virtualitics-gif.gif%3fw%3d554%26resize%3d554%252C294%26strip%3dall&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.850439ee353c39e3ebede92ba4b270a3%3frik%3dmLU2Xxx5uSF0Rw%26pid%3dImgRaw%26r%3d0&exph=294&expw=554&q=Data+visualization+GIFs&simid=608024519047528475&FORM=IRPRST&ck=4A310217CFE017E3F140FBDE01E28032&selectedIndex=8')
+![MasterHead]('https://i.redd.it/2l4p81b1pxp41.jpg')
 <h1 align="center">Hello 👋, I'm Sudeep Joshi</h1>
 <h3 align="center">An aspiring Data Scientist/ ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
