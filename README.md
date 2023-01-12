@@ -1,10 +1,7 @@
-![MasterHead](https://th.bing.com/th/id/OIP.KeF6JasZLDD4ultyOumqZwHaD_?pid=ImgDet&rs=1)
+
 <h1 align="center">Hello 👋, I'm Sudeep Joshi</h1>
 <h3 align="center">An aspiring Data Scientist/ ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
-<img align="left" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.KeF6JasZLDD4ultyOumqZwHaD_?pid=ImgDet&rs=1">
-
-
 
 
 - 🔭 I’m currently starting on building **Data Science projects.**
@@ -16,6 +13,7 @@
 - 📫 How to reach me **joshisudeep456@gmail.com**
 
 - ⚡ Fun fact **I'm from Nepal, but I've never experienced snowfall.**
+<img align="center" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.KeF6JasZLDD4ultyOumqZwHaD_?pid=ImgDet&rs=1">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
