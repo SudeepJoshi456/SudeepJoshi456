@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/3840/1*g__jiesLRIfCRefVG69Pfw.gif)
+![MasterHead](https://miro.medium.com/max/3840/1*g__jiesLRIfCRefVG69Pfw.gif){width=200}
 <h1 align="center">Hello 👋, I'm Sudeep Joshi</h1>
 <h3 align="center">An aspiring Data Scientist/ ML Engineer</h3>
 img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0"
