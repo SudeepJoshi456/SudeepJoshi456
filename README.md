@@ -1,4 +1,4 @@
-![MasterHead](https://www.vervelogic.com/blog/wp-content/uploads/2021/04/Data-Visualization-Trends.jpg)
+![MasterHead](https://th.bing.com/th/id/OIP.KeF6JasZLDD4ultyOumqZwHaD_?pid=ImgDet&rs=1)
 <h1 align="center">Hello 👋, I'm Sudeep Joshi</h1>
 <h3 align="center">An aspiring Data Scientist/ ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
