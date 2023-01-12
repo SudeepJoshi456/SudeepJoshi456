@@ -1,4 +1,4 @@
-![MasterHead](https://i.redd.it/2l4p81b1pxp41.jpg)
+![MasterHead]([https://i.redd.it/2l4p81b1pxp41.jpg](https://th.bing.com/th/id/OIP.yB-ODjFLrFKee1TBEiZ3fwAAAA?pid=ImgDet&w=300&h=225&rs=1))
 <h1 align="center">Hello 👋, I'm Sudeep Joshi</h1>
 <h3 align="center">An aspiring Data Scientist/ ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
