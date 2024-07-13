@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Codedex Hackathon project.<br>👯 I’m looking to collaborate on projects/ hackathons.<br>🌱 I’m currently learning full-stack web development.<br>⚡ I love solving LeetCode problems. https://leetcode.com/u/joshisudipsj01/
+🔭 I’m currently working on Codedex Hackathon project.<br>👯 I’m looking to collaborate on projects/ hackathons.<br>🌱 I’m currently learning full-stack web development.<br>⚡ I love solving Leetcode problems. https://leetcode.com/u/joshisudipsj01/
 
 
 ## 🌐 Socials:
